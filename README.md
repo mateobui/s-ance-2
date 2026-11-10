@@ -1,1 +1,1 @@
-# séance 2
+Description de la 2e séance
